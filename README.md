@@ -1,13 +1,17 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repository/main/path/to/hacker-image.png" width="200" />
+  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="200" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Pawani Maheshika Bandara</h1>
-<h3 align="center">A passionate frontend developer and cyber-law researcher from Sri Lanka</h3>
+<h3 align="center">IT student | A passionate frontend developer and cyber-law researcher from Sri Lanka</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=maheshiiiiiiiiii&label=Profile%20views&color=0e75b6&style=flat" alt="maheshiiiiiiiiii" /> 
 </p>
+<br>	
+<picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="75px"></picture><h3> <b>About me: </b></h3>
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400px"></picture>
+<br>
 
 - 🌱 I’m currently learning **Computer science and Cybersecurity**
 - 👯 I’m looking to collaborate on **Cybersecurity research**
@@ -19,6 +23,12 @@
 <p align="left">
   <a href="https://linkedin.com/in/pawani-maheshika-bandara" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pawani maheshika bandara" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/fpUtBrbKU5" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="xDeckland#0872" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/anderson_mend53" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anderson_mend53" height="30" width="40" />
   </a>
 </p>
 
@@ -44,10 +54,11 @@
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer" class="icon"> 
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"class="icon"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer" class="icon"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
 </p>
+
 <h4>Frontend Development:</h4>
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" class="icon"> 
@@ -83,6 +94,7 @@
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
   </a> 
 </p>
+
 <h4>Database:</h4>
 <p align="left">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" class="icon"> 
@@ -95,6 +107,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> 
 </p>
+
 <h4>DevOps:</h4>
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer" class="icon"> 
@@ -120,4 +133,9 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" class="icon"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   </a> 
-  <a href="https://pandas.py
+  <div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+        <p>Loading</p>
+    </div>
+
+</p>
