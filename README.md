@@ -9,12 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=maheshiiiiiiiiii&label=Profile%20views&color=0e75b6&style=flat" alt="maheshiiiiiiiiii" /> 
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=maheshiiiiiiiiii" alt="maheshiiiiiiiiii" />
-  </a> 
-</p>
-
 - 🌱 I’m currently learning **Computer science and Cybersecurity**
 - 👯 I’m looking to collaborate on **Cybersecurity research**
 - 🤝 I’m looking for help with **Cyber-law research**
